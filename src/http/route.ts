@@ -4,7 +4,7 @@ import { calculateRoute } from "./controllers/calculate";
 import { resultRoute } from "./controllers/result";
 
 export async function appRoutes(app: FastifyInstance) {
-  app.get("/result", resultRoute);
+  app.get("/", resultRoute);
   app.post(
-    "/calculate",{preHandler: [checkNumber]},calculateRoute);
+    "/results",{preHandler: [checkNumber]},calculateRoute);
 }

@@ -5,9 +5,7 @@ import { env } from "../env";
 
 export const app = fastify();
 
-app.register(appRoutes, {
-  prefix: 'prime'
-})
+app.register(appRoutes)
 
 
 app.setErrorHandler((error,request,reply) => {
