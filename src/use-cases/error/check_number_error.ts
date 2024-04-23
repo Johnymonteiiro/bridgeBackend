@@ -1,5 +1,5 @@
 export class onlyPositiveNumber extends Error {
   constructor() {
-    super('Verifique os dados de entrada!')
+    super('Only positive numbers!')
   }
 }
