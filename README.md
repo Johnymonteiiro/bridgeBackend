@@ -30,25 +30,16 @@ inteiro k
 
 
  ### Rodar o build: 
- `yarn build` ou 
- `npm run buld`
+ #### Rode o comando no terminal : `yarn build`  ou  `npm run buld`
+
+ 
 
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
-- [Next.js](https://nextjs.org)
-- [React Icons](https://react-icons.github.io/react-icons)
-- [React js](https://pt-br.reactjs.org)
-- [Sass](https://sass-lang.com/)
-- [React-Leaflet](https://react-leaflet.js.org/docs/start-introduction/)
-- [Swiper](https://swiperjs.com/swiper-api)
-- [Aint Design](https://ant.design/)
-- [Date fns](https://date-fns.org/)
+- [Nodejs](https://nextjs.org)
+- [Fastify](https://react-icons.github.io/react-icons)
+- [Prisma](https://pt-br.reactjs.org)
+- [Vitest](https://sass-lang.com/)
+- [Zod](https://react-leaflet.js.org/docs/start-introduction/)
 
-
-### Note:
-``` Is missing some functionalities
--- Adicional Components at some page
--- Is missing Total Price calculating card 
--- Statics texts
--- Is missing refactorations
