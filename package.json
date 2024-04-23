@@ -11,6 +11,7 @@
     "dev": "tsx watch src/server/server.ts",
     "test": "vitest run",
     "test:watch": "vitest",
+    "vercel-build": "npx prisma migrate deploy",
     "build": "tsup src --out-dir build"
   },
   "devDependencies": {
