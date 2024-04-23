@@ -32,19 +32,34 @@ inteiro k
  ### Rodar o build: 
  #### Rode o comando no terminal : `yarn build`  ou  `npm run buld`
 
- ### Testando as Rotas: 
+ ### Testando as Rotas: `Insominia` ou `postman`
+
+ [GET]http://localhost:3333/
 
  ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+[
+	{
+		"id": "90a33d65-c27d-43b4-b23d-5ddd36adee97",
+		"number": 11,
+		"execution_time": "0.08",
+		"prime_list": [
+			2,
+			3,
+			5,
+			7,
+			11
+		]
+	}
+]
 ```
 
- 
+ [POST]http://localhost:3333/results
+
+ ```bash
+{
+	"number": 11
+}
+```
 
 
 ## 🛠 Tecnologias
