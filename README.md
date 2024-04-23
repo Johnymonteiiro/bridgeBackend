@@ -25,10 +25,16 @@ inteiro k
 #### Crie um arquivo .env na raiz do projeto :  `copiar as variáveis ambiente no arquivo .env-exemple`
 #### Rode o comando no terminal :  `yarn dev` ou `npm run dev `
 
+### Rodando a os Teste:
 
- ##### For production run: 
- `yarn build`
- `yarn start`
+#### Rode o comando no terminal :  `yarn test` ou `npm run test ` ou  `yarn test` ou `npm run test `
+#### Crie um arquivo .env na raiz do projeto :  `copiar as variáveis ambiente no arquivo .env-exemple`
+#### Rode o comando no terminal :  `yarn dev` ou `npm run dev `
+
+
+ ### Rodar o build: 
+ `yarn build` ou 
+ `npm run buld`
 
 
 ### 🛠 Tecnologias
