@@ -26,10 +26,7 @@ inteiro k
 #### Rode o comando no terminal :  `yarn dev` ou `npm run dev `
 
 ### Rodando a os Teste:
-
-#### Rode o comando no terminal :  `yarn test` ou `npm run test ` ou  `yarn test` ou `npm run test `
-#### Crie um arquivo .env na raiz do projeto :  `copiar as variáveis ambiente no arquivo .env-exemple`
-#### Rode o comando no terminal :  `yarn dev` ou `npm run dev `
+#### Rode o comando no terminal :  `yarn test` ou `npm run test ` ou  `yarn test:watch` ou `npm run test:watch `
 
 
  ### Rodar o build: 
