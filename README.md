@@ -1,4 +1,4 @@
-<h1>Bridge | Test </h1>
+<h1>Bridge | Test Backend </h1>
 
 ### Descrição:
 O desafio envolve a implementação de funcionalidades web tanto no frontend quanto
@@ -67,6 +67,7 @@ inteiro k
 - <strong>Typescript</strong>
 - <strong>Fastify</strong>
 - <strong>Prisma</strong>
+- <strong>Supabase</strong>
 - <strong>Vitest</strong>
 - <strong>Zod</strong>
 
