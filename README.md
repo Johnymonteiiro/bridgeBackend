@@ -36,10 +36,11 @@ inteiro k
 
 
 ## 🛠 Tecnologias
+- <strong>Nodejs</strong>
+- <strong>Typescript</strong>
+- <strong>Fastify</strong>
+- <strong>Prisma</strong>
+- <strong>Vitest</strong>
+- <strong>Zod</strong>
 
-- [Nodejs](https://nextjs.org)
-- [Fastify](https://react-icons.github.io/react-icons)
-- [Prisma](https://pt-br.reactjs.org)
-- [Vitest](https://sass-lang.com/)
-- [Zod](https://react-leaflet.js.org/docs/start-introduction/)
 
